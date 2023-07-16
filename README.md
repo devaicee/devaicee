@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaicee&label=Profile%20views&color=0e75b6&style=flat" alt="devaicee" /> </p>
 
-- 🔭 I’m currently working on [Jumble Word Game](https://github.com/devaicee/JUMBLE-WORD-GAME.git)
+- 🔭 I’m currently working on [Word Jumble Game](https://github.com/devaicee/JUMBLE-WORD-GAME.git)
 
 - 🌱 I’m currently learning **Object Oriented Programming**
 <img align="right" alt="Coding" width="400" src="https://e1.pxfuel.com/desktop-wallpaper/760/300/desktop-wallpaper-anime-original-by-window-anime-programmer.jpg">
