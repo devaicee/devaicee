@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aicee/Icee!</h1>
+<h1 align="center">Hi 👋, I'm Arshane Lee aka Aicee/Icee!</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaicee&label=Profile%20views&color=0e75b6&style=flat" alt="devaicee" /> </p>
@@ -6,7 +6,8 @@
 - 🔭 I’m currently working on [Word Jumble Game](https://github.com/devaicee/JUMBLE-WORD-GAME.git)
 
 - 🌱 I’m currently learning **Object Oriented Programming**
-<img align="right" alt="Coding" width="400" src="https://e1.pxfuel.com/desktop-wallpaper/760/300/desktop-wallpaper-anime-original-by-window-anime-programmer.jpg">
+
+- 👯 I’m looking to collaborate on **Task Management Application**
 
 - 📫 How to reach me **codingaicee@gmail.com**
 
