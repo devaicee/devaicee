@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Object Oriented Programming**
 
-- 👯 I’m looking to collaborate on **Task Management Application**
+- 👯 I’m looking to collaborate on **Creating a Mobile App**
 
 - 📫 How to reach me **codingaicee@gmail.com**
 
