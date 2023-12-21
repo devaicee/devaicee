@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaicee&label=Profile%20views&color=0e75b6&style=flat" alt="devaicee" /> </p>
 
-- 🔭 I’m currently working on [Word Jumble Game](https://github.com/devaicee/JUMBLE-WORD-GAME.git)
-
-- 🌱 I’m currently learning **Object Oriented Programming**
-
 - 👯 I’m looking to collaborate on **Creating a Mobile App**
 
 - 📫 How to reach me **codingaicee@gmail.com**
