@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Creating a Mobile App**
 
-- 📫 How to reach me **codingaicee@gmail.com**
+- 📫 How to reach me **arshnelee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
