@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaicee&label=Profile%20views&color=0e75b6&style=flat" alt="devaicee" /> </p>
 
-- 👯 I’m looking to collaborate on **Creating a Mobile App**
+- 👯 I’m looking to collaborate on **Creating a WebApp**
 
 - 📫 How to reach me **arshnelee@gmail.com**
 
