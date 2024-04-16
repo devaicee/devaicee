@@ -12,5 +12,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaicee&show_icons=true&locale=en&layout=compact" alt="devaicee" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devaicee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devaicee&show_icons=true&locale=en" alt="devaicee" /></p>
+
