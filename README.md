@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arshane Lee aka Aicee!</h1>
+<h1 align="center">Hi 👋, I'm Aicee!</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaicee&label=Profile%20views&color=0e75b6&style=flat" alt="devaicee" /> </p>
-
-- 👯 Nya! Ichi Ni San Nyaa Arigato!
-
-- 📫 How to reach me **arshnelee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
