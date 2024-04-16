@@ -12,6 +12,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaicee&show_icons=true&locale=en&layout=compact" alt="devaicee" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=devaicee" alt="devaicee" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devaicee&show_icons=true&theme=tokyonight" alt="devaicee" /></p>
