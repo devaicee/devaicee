@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aicee, aka Davolaf!</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
-
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://i.pinimg.com/originals/1a/de/7a/1ade7ae99ccba78bca2e4300dff16bfb.gif)" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaicee&label=Profile%20views&color=0e75b6&style=flat" alt="devaicee" /> </p>
 
 <h3 align="left">Connect with me:</h3>
