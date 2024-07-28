@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <iframe src="https://assets.pinterest.com/ext/embed.html?id=829154981415438048" height="213" width="236" frameborder="0" scrolling="no" ></iframe>
+    <img src="https://assets.pinterest.com/ext/embed.html?id=829154981415438048" height="213" width="236" frameborder="0" scrolling="no" >
 </p>
 <h1 align="center">Hi 👋, I'm Aicee!</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
