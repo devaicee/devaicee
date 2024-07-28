@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img src="https://github.com/user-attachments/assets/2e65812f-5770-4a52-9ae3-d44365180685](https://i.pinimg.com/originals/72/c5/e4/72c5e4540d4376a3750694082d58fe79.gif" height="213" width="236" frameborder="0" scrolling="no" >
+    <img src="https://i.pinimg.com/originals/72/c5/e4/72c5e4540d4376a3750694082d58fe79.gif" height="213" width="236" frameborder="0" scrolling="no" >
 </p>
 <h1 align="center">Hi 👋, I'm Aicee!</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
