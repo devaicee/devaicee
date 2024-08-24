@@ -1,7 +1,7 @@
 <p align="center" width="100%">
     <img src="https://i.pinimg.com/originals/72/c5/e4/72c5e4540d4376a3750694082d58fe79.gif" height="250" width="550">
 </p>
-<h1 align="center">Hi 👋, I'm Aicee!</h1>
+<h1 align="center">Hi 👋, I'm A/icee!</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaicee&label=Profile%20views&color=0e75b6&style=flat" alt="devaicee" /> </p>
 
