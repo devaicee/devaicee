@@ -14,5 +14,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaicee&show_icons=true&locale=en&layout=compact" alt="devaicee" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devaicee&show_icons=true&theme=dracula" alt="devaicee" /></p>
+
 
