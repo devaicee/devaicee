@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://dev.to/@devaicee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@aicee" height="30" width="40" /></a>
 <a href="https://twitter.com/devaicee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devaicee" height="30" width="40" /></a>
-<a href="https://instagram.com/@arshanelee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arshanelee" height="30" width="40" /></a>
+<a href="https://instagram.com/devaicee.to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@devaicee.to" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devaicee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devaicee" height="30" width="40" /></a>
 </p>
 
