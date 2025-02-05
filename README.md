@@ -12,6 +12,7 @@
 <a href="https://twitter.com/devaicee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devaicee" height="30" width="40" /></a>
 <a href="https://instagram.com/devaicee.to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@devaicee.to" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devaicee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devaicee" height="30" width="40" /></a>
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,sqlite,php,py,tailwind,androidstudio,babel,bash,c,cpp,cs,codepen,docker)](https://skillicons.dev)
 </p>
 
 
