@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img src="https://i.pinimg.com/1200x/27/85/ec/2785ecfa655d7e59610decb9358fafe1.jpg" height="250" width="550">
+    <img src="https://i.pinimg.com/1200x/27/85/ec/2785ecfa655d7e59610decb9358fafe1.jpg" height="250" width="500">
 </p>
 <h1 align="center">Hi 👋, I'm A/icee!</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
