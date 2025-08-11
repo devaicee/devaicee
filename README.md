@@ -89,8 +89,8 @@ Currently, I'm focused on sharpening my skills in **Full Stack Web Development**
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,python,postman,git" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,python,git" /><br>
     <img src="https://skillicons.dev/icons?i=github,figma,vercel,notion,vscode" /><br>
 </div>
 
