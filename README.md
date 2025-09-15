@@ -55,11 +55,10 @@ Currently, I'm focused on sharpening my skills in **Full Stack Web Development**
   A Little More About Me
  </h3>
 
- ⬛ I enjoy being surrounded by people who challenge me to grow.</br>
+ ⬛ Thrive in collaborative environments that encourage growth.</br>
  ⬜ Currently working on projects with React and Firebase.</br>
- ⬛ Always happy to help others learn about Front-End development.</br>
- ⬜ Interested in projects that make me think and push my limits.</br>
- ⬛ Lover of clean, functional design (with a hint of chaos).
+ ⬛ Committed to mentoring and supporting others in Front-End development.</br>
+ ⬜ Motivated by challenging projects that push technical and creative boundaries.</br>
  ㅤ
   <!-- Social links and spotify --> 
   <div align="left"> 
