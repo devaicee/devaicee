@@ -61,6 +61,26 @@ I’ve worked on projects such as a credit-based digital product trading marketp
 ⬜ Motivated by complex projects that push both technical and creative boundaries.</br>
 ⬜ Open to collaboration, mentorship, and knowledge-sharing within development teams.</br>
 
+<div align="left"> 
+
+  <a href="https://mail.google.com/mail/?view=cm&to=codingaicee@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://discord.com/users/aiceehuh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a> 
+
+  <a href="https://open.spotify.com/user/31clomaaguv47eshbnr3j2y32nvi" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
+  </a>
+
+  <a href="https://www.threads.net/@areshaen" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-threads-8891432-7255079.png" width="48px" />
+  </a>
+
+</div>
+
 
 <!-- My Stacks -->
 <!-- Title -->
