@@ -36,9 +36,9 @@
 **Who Am I?**
 </div>
 
-I'm **Aicee**, a student at *Cebu Technological University* pursuing a *Bachelor of Science in Information Technology.* My journey into tech is fueled by curiosity and creativity — I enjoy designing websites and apps, exploring how aesthetics and functionality come together. I also offer academic assistance services, and admittedly… I like getting distracted from time to time (it's part of my creative process).
+I'm Aicee, a student at Cebu Technological University pursuing a Bachelor of Science in Information Technology. My journey into tech is driven by curiosity and creativity — I enjoy building websites and applications while exploring how aesthetics, logic, and functionality come together.
 
-Currently, I'm focused on sharpening my skills in **Full Stack Web Development** for my ongoing project — a **credit-based digital product trading marketplace**. While I explore the full development stack, my strongest passion lies in *Front-End*, where I can merge logic, design, and user experience.
+I’ve worked on projects such as a credit-based digital product trading marketplace, where I handled tasks across the full development stack — from planning and database design to backend logic and user-facing interfaces. I identify as a Full Stack Developer, capable of handling both front-end and back-end development, with a focus on building complete, functional, and user-centered systems.
  ㅤ
 </br>
 
@@ -55,10 +55,11 @@ Currently, I'm focused on sharpening my skills in **Full Stack Web Development**
   A Little More About Me
  </h3>
 
- ⬛ Thrive in collaborative environments that encourage growth.</br>
- ⬜ Currently working on projects with React and Firebase.</br>
- ⬛ Committed to mentoring and supporting others in Front-End development.</br>
- ⬜ Motivated by challenging projects that push technical and creative boundaries.</br>
+⬜ Currently working on cross-platform applications and management systems.</br>
+⬜ Experienced in building full stack solutions, from system planning to deployment.</br>
+⬜ Comfortable working with modern frameworks, databases, and backend logic.</br>
+⬜ Motivated by complex projects that push both technical and creative boundaries.</br>
+⬜ Open to collaboration, mentorship, and knowledge-sharing within development teams.</br>
  ㅤ
   <!-- Social links and spotify --> 
   <div align="left"> 
@@ -71,6 +72,9 @@ Currently, I'm focused on sharpening my skills in **Full Stack Web Development**
   </a> 
   <a href="https://open.spotify.com/user/31clomaaguv47eshbnr3j2y32nvi" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
+  </a>
+  <a href="https://www.threads.net/@areshaen" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-threads-8891432-7255079.png" width="48px" />
   </a>
 
   </div>
