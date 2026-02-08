@@ -75,10 +75,6 @@ I’ve worked on projects such as a credit-based digital product trading marketp
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
   </a>
 
-  <a href="https://www.threads.net/@areshaen" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-threads-8891432-7255079.png" width="48px" />
-  </a>
-
 </div>
 
 
