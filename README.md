@@ -59,7 +59,7 @@ I’ve worked on projects such as a credit-based digital product trading marketp
 ⬜ Experienced in building full stack solutions, from system planning to deployment.</br>
 ⬜ Comfortable working with modern frameworks, databases, and backend logic.</br>
 ⬜ Motivated by complex projects that push both technical and creative boundaries.</br>
-⬜ Open to collaboration, mentorship, and knowledge-sharing within development teams.</br>
+⬜ Open to collaboration and knowledge-sharing within development teams.</br>
 
 <div align="left"> 
 
