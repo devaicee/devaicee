@@ -2,7 +2,7 @@
 <!-- Profile Banner -->
 <p align="center">
   <a href="https://github.com/devaicee">
-    <img src="https://i.pinimg.com/originals/8f/0f/1a/8f0f1a58f61495c4d27bec21c31d7a28.gif" alt="Cover image" width="40%" height="20%">
+    <img src="header.gif" alt="Cover image" width="40%" height="20%">
   </a>
 </p>
 
@@ -49,7 +49,7 @@ I’ve worked on projects such as a credit-based digital product trading marketp
 <!-- About me section -->
 
 <!-- Gif on the right side -->
-<img align="right" alt="about-cover" width="300" src="https://i.pinimg.com/originals/9d/b1/3f/9db13f4f06bfa1600e970fd32f1851db.gif"></br>
+<img align="right" alt="about-cover" width="300" src="right.gif"></br>
 
 <!-- Simple description -->
  <h3 align="center">
