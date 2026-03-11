@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/devaicee">
     <img 
-      src="https://i.pinimg.com/originals/e7/99/84/e79984d122840f899033d13b9ad31404.gif" 
+      src="src="https://raw.githubusercontent.com/devaicee/devaicee/main/banner.gif"" 
       alt="Cover image" 
       width="70%" />
   </a>
