@@ -69,8 +69,6 @@ I’ve worked on projects such as a credit-based digital product trading marketp
 <b>My Tech Stack </b>
 </h3>
 
-<br/>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bootstrap,tailwind,vite" /><br>
     <img src="https://skillicons.dev/icons?i=firebase,mysql,git,vercel,github,figma,notion" /><br>
