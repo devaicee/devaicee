@@ -1,8 +1,13 @@
 <!-- 13 17 23 -->
 <!-- Profile Banner -->
-<a href="https://github.com/devaicee">
-  <img src="https://i.pinimg.com/1200x/e1/d7/2e/e1d72e109f3ac41043105f87d883d0c5.jpg" alt="Cover image" style="width:70%; height:auto"/>
-</a>
+<p align="center">
+  <a href="https://github.com/devaicee">
+    <img 
+      src="https://i.pinimg.com/1200x/e1/d7/2e/e1d72e109f3ac41043105f87d883d0c5.jpg" 
+      alt="Cover image" 
+      width="70%" />
+  </a>
+</p>
 
 <!-- Metrics: views/stars/followers -->
 <br>
