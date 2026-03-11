@@ -61,7 +61,9 @@ I’ve worked on projects such as a credit-based digital product trading marketp
 ⬜ Comfortable working with modern frameworks, databases, and backend logic.</br>
 ⬜ Motivated by complex projects that push both technical and creative boundaries.</br>
 ⬜ Open to collaboration and knowledge-sharing within development teams.</br>
-
+<br>
+<br>
+<br>
 
 <!-- My Stacks -->
 <!-- Title -->
