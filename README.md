@@ -2,7 +2,7 @@
 <!-- Profile Banner -->
 <p align="center">
   <a href="https://github.com/devaicee">
-    <img src="banner.gif" alt="Cover image" width="80%">
+    <img src="banner.gif" alt="Cover image" width="60%">
   </a>
 </p>
 
