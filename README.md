@@ -49,7 +49,7 @@ I’ve worked on projects such as a credit-based digital product trading marketp
 <!-- About me section -->
 
 <!-- Gif on the right side -->
-<img align="right" alt="about-cover" width="300" src="https://i.pinimg.com/originals/ca/36/b2/ca36b220de6c0f5e504dab1d6b323fc3.gif"></br>
+<img align="right" alt="about-cover" width="300" src="catb.gif"></br>
 
 <!-- Simple description -->
  <h3 align="center">
