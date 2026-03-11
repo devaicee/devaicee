@@ -21,10 +21,9 @@
        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devaicee" /> 
 </a>
 <a href="https://github.com/devaicee?tab=followers">
-  <img width="150px" 
-       alt="followers" 
-       title="GitHub followers" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/devaicee?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+  <img 
+    alt="GitHub followers"
+    src="https://img.shields.io/github/followers/devaicee?style=for-the-badge&color=black&label=Followers" />
 </a>
 </div>
 
