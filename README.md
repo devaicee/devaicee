@@ -36,11 +36,10 @@
 
 **Who Am I?**
 </div>
-<div align="right">
 I'm Arshane aka Aicee, a student at Cebu Technological University pursuing a Bachelor of Science in Information Technology. My journey into tech is driven by curiosity and creativity — I enjoy building websites and applications while exploring how aesthetics, logic, and functionality come together.
 
-I’ve worked on projects such as a credit-based digital product trading marketplace, where I handled tasks across the full development stack — from planning and database design to backend logic and user-facing interfaces. I identify as a Full Stack Developer, capable of handling both front-end and back-end development, with a focus on building complete, functional, and user-centered systems.
-</div>
+I’ve worked on projects such as a credit-based digital product trading marketplace, where I handled tasks across the full development stack — from planning and database design to backend logic and user-facing interfaces.
+
 </br>
 
 
