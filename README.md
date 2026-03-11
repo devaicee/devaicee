@@ -31,7 +31,7 @@
 
 </br>
 
-<img src="cataa.gif" width=330 align="left">
+<img src="cats.gif" width=330 align="left">
 <div align="center">
 
 **Who Am I?**
