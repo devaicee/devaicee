@@ -72,7 +72,7 @@ I’ve worked on projects such as a credit-based digital product trading marketp
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,vite" /><br>
-    <img src="https://skillicons.dev/icons?i=firebase,mysql,git,vercel,github,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,git,vercel,github,figma,supabase" /><br>
 </div>
 
 <br/>
