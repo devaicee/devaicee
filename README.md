@@ -1,7 +1,7 @@
 <!-- 13 17 23 -->
 <!-- Profile Banner -->
 <p align="center">
-  <a href="https://github.com/devaicee">
+  <a href="https://github.com/arshanelee">
     <img src="header.gif" alt="Cover image" width="40%" height="20%">
   </a>
 </p>
@@ -10,9 +10,9 @@
 <br>
 </br>
 <div align="center">
-<a href="https://github.com/devaicee">
+<a href="https://github.com/arshanelee">
   <img width="180px" 
-       src="https://komarev.com/ghpvc/?username=devaicee&label=Profile%20views&color=000000&style=for-the-badge" 
+       src="https://komarev.com/ghpvc/?username=arshanelee&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="Profile views"
        title="Total views"/> 
 </a>
@@ -25,7 +25,7 @@
 <a href="https://github.com/devaicee?tab=followers">
   <img 
     alt="GitHub followers"
-    src="https://img.shields.io/github/followers/devaicee?style=for-the-badge&color=black&label=Followers" />
+    src="https://img.shields.io/github/followers/arshanelee?style=for-the-badge&color=black&label=Followers" />
 </a>
 </div>
 
@@ -36,7 +36,7 @@
 
 **Who Am I?**
 </div>
-I'm Arshane aka Aicee, a student at Cebu Technological University pursuing a Bachelor of Science in Information Technology. My journey into tech is driven by curiosity and creativity — I enjoy building websites and applications while exploring how aesthetics, logic, and functionality come together.
+I'm Arshane, a student at Cebu Technological University pursuing a Bachelor of Science in Information Technology. My journey into tech is driven by curiosity and creativity — I enjoy building websites and applications while exploring how aesthetics, logic, and functionality come together.
 
 I’ve worked on projects such as a credit-based digital product trading marketplace, where I handled tasks across the full development stack — from planning and database design to backend logic and user-facing interfaces.
 
